@@ -1,0 +1,530 @@
+[30-Nov-2017 09:53:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'asaplastici.ac_preventivi' doesn't exist in /home/site/wwwroot/index.php:72
+Stack trace:
+#0 /home/site/wwwroot/index.php(72): PDO->query('SELECT COALESCE...')
+#1 {main}
+  thrown in /home/site/wwwroot/index.php on line 72
+[30-Nov-2017 15:44:43 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/site/wwwroot/index.php on line 102
+[30-Nov-2017 15:44:47 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/site/wwwroot/index.php on line 102
+[30-Nov-2017 15:44:49 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /home/site/wwwroot/index.php on line 102
+[30-Nov-2017 16:24:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 136
+[30-Nov-2017 16:24:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 136
+[30-Nov-2017 16:25:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:136
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 136
+[30-Nov-2017 16:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 140
+[30-Nov-2017 16:25:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 140
+[30-Nov-2017 16:25:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 140
+[30-Nov-2017 16:25:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 140
+[30-Nov-2017 16:26:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 140
+[30-Nov-2017 16:26:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:140
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 140
+[30-Nov-2017 16:31:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:144
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 144
+[30-Nov-2017 16:32:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-terminali ORDER BY denominazione' at line 1 in /home/site/wwwroot/index.php:129
+Stack trace:
+#0 /home/site/wwwroot/index.php(129): PDO->query('SELECT terminal...')
+#1 {main}
+  thrown in /home/site/wwwroot/index.php on line 129
+[30-Nov-2017 16:45:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:164
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 164
+[30-Nov-2017 16:46:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 166
+[30-Nov-2017 16:49:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 170
+[30-Nov-2017 16:50:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 170
+[30-Nov-2017 16:50:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 170
+[30-Nov-2017 16:51:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 170
+[30-Nov-2017 16:51:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 16:52:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 16:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 16:52:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 16:52:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 16:54:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:17:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:17:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:17:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 18:44:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 19:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 19:59:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 19:59:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 19:59:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 20:00:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 20:00:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 20:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 20:01:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 23:46:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 23:47:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 23:47:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[30-Nov-2017 23:47:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 07:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 07:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 07:29:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:24:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:24:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:24:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:26:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:26:24 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 17
+[01-Dec-2017 10:27:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:30:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:30:44 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 17
+[01-Dec-2017 10:31:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:35:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:35:24 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 17
+[01-Dec-2017 10:36:57 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:37:21 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:37:22 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:37:55 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:39:22 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:39:24 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:03 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:04 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:43 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:45 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:46 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:46 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:47 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:44:00 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 18
+[01-Dec-2017 10:44:19 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 15
+[01-Dec-2017 10:45:06 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 15
+[01-Dec-2017 10:45:13 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 15
+[01-Dec-2017 10:51:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:51:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 10:54:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'preventivo_id = 1' at line 1 in /home/site/wwwroot/conf-mngr.php:23
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(23): PDO->query('UPDATE ac_preve...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 23
+[01-Dec-2017 10:54:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'preventivo_id = 1' at line 1 in /home/site/wwwroot/conf-mngr.php:23
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(23): PDO->query('UPDATE ac_preve...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 23
+[01-Dec-2017 10:57:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'preventivo_id = 1' at line 1 in /home/site/wwwroot/conf-mngr.php:23
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(23): PDO->query('UPDATE ac_preve...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 23
+[01-Dec-2017 11:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 11:52:14 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 16
+[01-Dec-2017 12:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:12:02 UTC] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home/site/wwwroot/conf-mngr.php on line 16
+[01-Dec-2017 12:17:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' in /home/site/wwwroot/conf-mngr.php:21
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(21): PDO->query('INSERT INTO ac_...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 21
+[01-Dec-2017 12:17:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' in /home/site/wwwroot/conf-mngr.php:21
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(21): PDO->query('INSERT INTO ac_...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 21
+[01-Dec-2017 12:17:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' in /home/site/wwwroot/conf-mngr.php:21
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(21): PDO->query('INSERT INTO ac_...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 21
+[01-Dec-2017 12:18:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list' in /home/site/wwwroot/conf-mngr.php:21
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(21): PDO->query('INSERT INTO ac_...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 21
+[01-Dec-2017 12:20:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:13) in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 33
+[01-Dec-2017 12:20:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:13) in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 33
+[01-Dec-2017 12:20:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:13) in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 33
+[01-Dec-2017 12:20:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:13) in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 33
+[01-Dec-2017 12:20:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:13) in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 33
+[01-Dec-2017 12:20:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:13) in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:20:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 33
+[01-Dec-2017 12:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:20:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:21:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:20) in /home/site/wwwroot/conf-mngr.php on line 31
+[01-Dec-2017 12:21:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:24:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:30) in /home/site/wwwroot/conf-mngr.php on line 31
+[01-Dec-2017 12:24:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:25:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:30) in /home/site/wwwroot/conf-mngr.php on line 31
+[01-Dec-2017 12:25:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 32
+[01-Dec-2017 12:26:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:27:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:29:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:32:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:32:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:35:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[01-Dec-2017 12:42:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:42:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[01-Dec-2017 12:42:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[02-Dec-2017 11:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[02-Dec-2017 11:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[02-Dec-2017 11:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[02-Dec-2017 11:04:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[03-Dec-2017 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[03-Dec-2017 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[03-Dec-2017 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[03-Dec-2017 11:11:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:173
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 173
+[03-Dec-2017 11:35:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::fetchCoulmn() in /home/site/wwwroot/index.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 43
+[03-Dec-2017 11:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 142
+[03-Dec-2017 11:37:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:142
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 142
+[03-Dec-2017 11:41:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 137
+[03-Dec-2017 11:41:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 137
+[03-Dec-2017 11:43:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/index.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/index.php on line 137
+[03-Dec-2017 11:43:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::close() in /home/site/wwwroot/conf-mngr.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 30
+[03-Dec-2017 11:46:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:30) in /home/site/wwwroot/conf-mngr.php on line 31
+[03-Dec-2017 11:46:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/site/wwwroot/conf-mngr.php:30) in /home/site/wwwroot/conf-mngr.php on line 31
+[03-Dec-2017 13:31:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'preventivo_id = 1' at line 1 in /home/site/wwwroot/conf-mngr.php:23
+Stack trace:
+#0 /home/site/wwwroot/conf-mngr.php(23): PDO->query('UPDATE ac_preve...')
+#1 {main}
+  thrown in /home/site/wwwroot/conf-mngr.php on line 23
